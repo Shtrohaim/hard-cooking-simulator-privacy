@@ -1,0 +1,1 @@
+# hard-cooking-simulator-privacy
