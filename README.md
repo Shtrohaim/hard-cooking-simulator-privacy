@@ -1,6 +1,8 @@
-# Hard Cooking Simulator Privacy Policy
+# Hard Cooking Simulator Privacy Policy (moved)
 
-Public privacy policy page for Hard Cooking Simulator.
+The privacy policy now lives on the DeorelTGames site:
+https://shtrohaim.github.io/deoreltgames_official/games/hard-cooking-simulator/privacy/
 
-Website:
-https://shtrohaim.github.io/hard-cooking-simulator-privacy/
+This repository only redirects the old address
+https://shtrohaim.github.io/hard-cooking-simulator-privacy/ — do not delete it,
+the old link may still be listed in app stores.
